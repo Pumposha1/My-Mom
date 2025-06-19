@@ -1,10 +1,4 @@
-import pygame, sys
-from settings import *
-from config import Config
-from phrase_manager import PhraseManager
-from avatar import Avatar
-from ui import UI
-
+# В main.py
 def main():
     pygame.init()
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
@@ -65,6 +59,3 @@ def main():
     config.save()
     pygame.quit()
     sys.exit()
-
-if __name__ == "__main__":
-    main()
