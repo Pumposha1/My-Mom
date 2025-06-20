@@ -1,13 +1,30 @@
 {
-    "en_US": [
-        "Lock off!",
-        "Did you do everything to be the best in the world?",
-        "Keep going, i need your ego"
-    ],
-
-    "ru_RU": [
-        "Здравствуйте, мои неограненные алмазы!",
-        "Побеждает тот, кто наколотил больше голов",
-        "Твое эго завяло"
-    ]
+  "en_US": [
+    {
+      "text": "Lock off!",
+      "img": "Avatar.png"
+    },
+    {
+      "text": "Did you do everything to be the best in the world?",
+      "img": "hmm.png"
+    },
+    {
+      "text": "Keep going, I need your ego",
+      "img": "Smile.png"
+    }
+  ],
+  "ru_RU": [
+    {
+      "text": "Здравствуйте, мои неограненные алмазы!",
+      "img": "Smile.png"
+    },
+    {
+      "text": "Побеждает тот, кто наколотил больше голов",
+      "img": "Hmm.png"
+    },
+    {
+      "text": "Твоё эго завяло",
+      "img": "Avatar.png"
+    }
+  ]
 }
